@@ -8,15 +8,15 @@ import java.util.Scanner;
 
 /**
  *
- * @author Rosemary
+ * Faca um programa que receba a nota e a frequencia de um aluno e exiba o resultado deste ˆ
+aluno. A frequencia e um numero decimal entre 0 e 1 (ex: 80% de frequencia equivale a 0.80). ˆ
+• Aprovado: Nota mınima 7.0 e frequencia mınima de 0.75
+• Em recuperacao:  Nota entre 4.0 e 7.0 e freqencia mınima de 0.75
+• Reprovado: Nota inferior a 4.0 ou frequencia inferior a 0.75 ˆ
  */
 public class Atividade1 {
 
-   Faca um programa que receba a nota e a frequencia de um aluno e exiba o resultado deste ˆ
-aluno. A frequencia ˆ e um n  ́ umero decimal entre 0 e 1 (ex: 80% de frequencia equivale a 0.80). ˆ
-• Aprovado: Nota mınima 7.0 e frequencia m ˆ  ́ınima de 0.75
-• Em recuperacao:  ̃ Nota entre 4.0 e 7.0 e freqencia m ˆ  ́ınima de 0.75
-• Reprovado: Nota inferior a 4.0 ou frequencia inferior a 0.75 ˆ
+  
     public static void main(String[] args) {
       Scanner ler = new Scanner(System.in);
       
